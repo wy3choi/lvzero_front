@@ -1,4 +1,4 @@
-name: lvzero-front
+name: lvzero_front
 on:
   push:
     branches:
